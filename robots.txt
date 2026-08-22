@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brantfordplumbingpros.ca/sitemap-index.xml
