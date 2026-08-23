@@ -1,2 +1,25 @@
 # Brantford Plumbing Pros
-HVAC services in Ontario.
+
+> Brantford Plumbing Pros is a local HVAC company serving Brantford, Brant, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 756-3142  |  Email: contact@brantfordplumbingpros.ca  |  Website: https://brantfordplumbingpros.ca
+
+## Key pages
+
+- [Home](https://brantfordplumbingpros.ca/): Brantford Plumbing Pros homepage with service overview and FAQ
+- [About](https://brantfordplumbingpros.ca/about/): About the company and service area
+- [Contact](https://brantfordplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://brantfordplumbingpros.ca/services/water-heaters/): Water Heaters in Brantford, Ontario
+- [Drain Cleaning](https://brantfordplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in Brantford, Ontario
+- [Repiping](https://brantfordplumbingpros.ca/services/repiping/): Repiping in Brantford, Ontario
+- [Fixtures & Toilets](https://brantfordplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in Brantford, Ontario
+- [Leak Detection & Repair](https://brantfordplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in Brantford, Ontario
+- [Sump Pumps & Backwater](https://brantfordplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in Brantford, Ontario
+- [Water Softeners & Filtration](https://brantfordplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in Brantford, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Brantford are answered on the homepage.
